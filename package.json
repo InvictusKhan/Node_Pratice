@@ -1,0 +1,12 @@
+{
+  "name": "node_practice",
+  "version": "1.0.0",
+  "description": "Node Pratice",
+  "license": "ISC",
+  "author": "Fasih",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
