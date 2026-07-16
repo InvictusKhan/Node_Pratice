@@ -7,6 +7,6 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "dev": " node --env-file=.env server2.js"
+    "dev": " node --env-file=.env server3.js"
   }
 }
